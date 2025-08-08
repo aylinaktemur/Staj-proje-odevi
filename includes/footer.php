@@ -10,11 +10,11 @@
             <div class="col-md-4">
                 <h6>Hızlı Linkler</h6>
                 <ul class="list-unstyled">
-                    <li><a href="#" class="text-dark text-decoration-none">Ana Sayfa</a></li>
-                    <li><a href="#" class="text-dark text-decoration-none">Hakkımızda</a></li>
-                    <li><a href="#" class="text-dark text-decoration-none">Müdürlüklerimiz</a></li>
-                    <li><a href="#" class="text-dark text-decoration-none">Projelerimiz</a></li>
-                    <li><a href="#" class="text-dark text-decoration-none">İletişim</a></li>
+                    <li><a href="anasayfa.php" class="text-dark text-decoration-none">Ana Sayfa</a></li>
+                    <li><a href="hakkimizda.php" class="text-dark text-decoration-none">Hakkımızda</a></li>
+                    <li><a href="mudurluklerimiz.php" class="text-dark text-decoration-none">Müdürlüklerimiz</a></li>
+                    <li><a href="projelerimiz.php" class="text-dark text-decoration-none">Projelerimiz</a></li>
+                    <li><a href="iletisim.php" class="text-dark text-decoration-none">İletişim</a></li>
                 </ul>
             </div>
             <div class="col-md-4">

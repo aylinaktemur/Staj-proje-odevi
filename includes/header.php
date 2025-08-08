@@ -12,22 +12,22 @@
                     <a class="nav-link" href="anasayfa.php">Ana Sayfa</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Hakkımızda</a>
+                    <a class="nav-link" href="hakkimizda.php">Hakkımızda</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Müdürlüklerimiz</a>
+                    <a class="nav-link" href="mudurluklerimiz.php">Müdürlüklerimiz</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Projelerimiz</a>
+                    <a class="nav-link" href="projelerimiz.php">Projelerimiz</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Galeri</a>
+                    <a class="nav-link" href="galeri.php">Galeri</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">İletişim</a>
+                    <a class="nav-link" href="iletisim.php">İletişim</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Giriş</a>
+                    <a class="nav-link" href="login.php">Giriş</a>
                 </li>
             </ul>
         </div>
