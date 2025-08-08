@@ -58,7 +58,42 @@
                     </div>
                 </div>
             </div>
-
+            <div class="row">
+                <div class="col-12">
+                    <div class="values-section">
+                        <h3 class="text-center mb-5">Değerlerimiz</h3>
+                        <div class="row">
+                            <div class="col-lg-4 col-md-6 mb-4">
+                                <div class="value-card">
+                                    <div class="value-icon">
+                                        <i class="fas fa-lightbulb"></i>
+                                    </div>
+                                    <h4>İnovasyon</h4>
+                                    <p>Teknolojik yenilikleri takip ederek sürekli gelişim sağlıyoruz.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 mb-4">
+                                <div class="value-card">
+                                    <div class="value-icon">
+                                        <i class="fas fa-shield-alt"></i>
+                                    </div>
+                                    <h4>Güvenilirlik</h4>
+                                    <p>Güvenli ve güvenilir sistemler ile hizmet veriyoruz.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 mb-4">
+                                <div class="value-card">
+                                    <div class="value-icon">
+                                        <i class="fas fa-tachometer-alt"></i>
+                                    </div>
+                                    <h4>Hız</h4>
+                                    <p>Hızlı ve etkili çözümler ile vatandaş memnuniyeti sağlıyoruz.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
 
